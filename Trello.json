@@ -1,16 +1,16 @@
 [
   {
-    "name": "Bot, Der",
-    "email": "",
-    "trelloName": "derbot",
-    "trelloId": "596621857d7bdacb1cd4e04c",
-    "trelloLabelId": ""
+    "name": "Soeiner, Noch",
+    "email": "noch.soeiner@gmx.de",
+    "trelloName": "nochsoeiner2",
+    "trelloId": "5970a44529463550c6008c85",
+    "trelloLabelId": "5975af2c1314a33999c09d2d"
   },
   {
-    "name":"Soeiner, Noch",
-    "email":"noch.soeiner@gmx.de",
-    "trelloName":"nochsoeiner2",
-    "trelloId":"5970a44529463550c6008c85",
-    "trelloLabelId":"5975af2c1314a33999c09d2d"
+    "name": "Person, Test",
+    "email": "die.testperson@gmx.net",
+    "trelloName": "persontest",
+    "trelloId": "59809c9d699a2f7de4b746ae",
+    "trelloLabelId": "5981a31e694ed041735c5950"
   }
 ]
